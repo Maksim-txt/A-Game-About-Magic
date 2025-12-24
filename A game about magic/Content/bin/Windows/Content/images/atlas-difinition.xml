@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/prototype_character</Texture>
+    <Regions>
+        <Region name="player-1" x="10" y="8" width="11" height="13" />
+        <Region name="player-2" x="42" y="9" width="11" height="12" />
+    </Regions>
+
+    <Animations>
+      <Animation name = "player-animation" delay = "100">
+        <Frame region = "player-1" />
+        <Frame region = "player-2" />
+      </Animation>
+    </Animations>
+</TextureAtlas>

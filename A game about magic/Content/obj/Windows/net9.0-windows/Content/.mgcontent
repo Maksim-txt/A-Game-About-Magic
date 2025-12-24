@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/fonts/04B_30_5x.spritefont</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/fonts/04B_30.spritefont</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/images/CrosshairSpell.png</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/images/Enemy-base.png</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/images/Player.png</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/images/prototype_character.png</File>
+    <File>C:/Dev/C#/monogame/A game about magic/A game about magic/Content/images/TileMap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

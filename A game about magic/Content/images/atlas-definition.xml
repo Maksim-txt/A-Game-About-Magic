@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+    <Texture>images/Player</Texture>
+    <Regions>
+        <Region name="player-1" x="0" y="8" width="23" height="28" />
+        <Region name="player-2" x="21" y="8" width="23" height="28" />
+        <Region name="player-3" x="44" y="8" width="23" height="28" />
+        <Region name="player-4" x="0" y="40" width="23" height="28" />
+        <Region name="enemy-1" x="0" y="64" width="23" height="29" />
+    </Regions>
+
+    <Animations>
+      <Animation name = "player-animation" delay = "200">
+        <Frame region = "player-1" />
+      </Animation>
+      <Animation name = "player-walk-animation" delay = "100">
+        <Frame region = "player-1" />
+        <Frame region = "player-2" />
+        <Frame region = "player-3" />
+        <Frame region = "player-4" />
+        <Frame region = "player-1" />
+      </Animation>
+      <Animation name = "enemy-animation" delay = "200">
+        <Frame region = "enemy-1" />
+      </Animation>
+
+    </Animations>
+</TextureAtlas>
